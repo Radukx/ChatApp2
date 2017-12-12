@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/server/exceptions/InvalidFormatException.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/client/TextClient.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/server/ServerPeer.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/structs/Message.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/structs/Main.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/structs/PrivateMessage.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/server/Server.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/server/exceptions/MissingKeyException.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/client/ClientPeer.java</file>
+            <file>file:/C:/Users/Radu/Desktop/JavaChatApplication-lab5-4eac666b3dff3443dd770371d16aefc8b2fb2fd0/src/ro/upb/etti/poo/chat_application/server/config/ServerConfig.java</file>
+        </group>
+    </open-files>
+</project-private>
